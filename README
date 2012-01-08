@@ -8,12 +8,10 @@ installation:
 - install node-mysql (https://github.com/felixge/node-mysql)
 
 run this command in your terminal:
-<pre>
-$node app.js &
-</pre>
+  $node app.js &
 
 open in your browser:
-<pre>http://localhost:3000/</pre>
+  http://localhost:3000/
 
 visit my blog: 
 http://blog.luksidadi.com
