@@ -1,6 +1,6 @@
 var mysql = require('mysql');
 var MYSQL_USERNAME = 'root';
-var MYSQL_PASSWORD = 'juventus';
+var MYSQL_PASSWORD = 'password';
 
 // create tables;
 var client = mysql.createClient({
