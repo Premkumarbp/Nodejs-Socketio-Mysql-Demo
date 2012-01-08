@@ -1,0 +1,13 @@
+
+installation:
+- install nodejs (nodejs.org)
+- install npm (npmjs.org)
+- install socketio (socket.io)
+- install node-mysql (https://github.com/felixge/node-mysql)
+
+run 
+$node app.js &
+
+open http://localhost:3000/
+
+
