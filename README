@@ -1,3 +1,4 @@
+Author: Alexander Luksidadi
 
 installation:
 - install nodejs (nodejs.org)
@@ -10,4 +11,5 @@ $node app.js &
 
 open http://localhost:3000/
 
-
+visit my blog: 
+http://blog.luksidadi.com
