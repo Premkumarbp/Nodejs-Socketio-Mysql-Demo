@@ -1,6 +1,11 @@
 ### Author: Alexander Luksidadi
 ### Tutorial URL: http://blog.luksidadi.com/mysql-nodejs-socketio-tutorial/
 
+Description:
+How to call mysql query from Nodejs / SocketIO
+
+Tags: nodejs, socketio, mysql
+
 ### installation:
 - install nodejs (nodejs.org)
 - install npm (npmjs.org)
