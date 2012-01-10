@@ -1,17 +1,21 @@
-Author: Alexander Luksidadi
-Tutorial URL: http://blog.luksidadi.com/mysql-nodejs-socketio-tutorial/
+### Author: Alexander Luksidadi
+### Tutorial URL: http://blog.luksidadi.com/mysql-nodejs-socketio-tutorial/
 
-installation:
+### installation:
 - install nodejs (nodejs.org)
 - install npm (npmjs.org)
 - install socketio (socket.io)
 - install node-mysql (https://github.com/felixge/node-mysql)
 
-run this command in your terminal:
+### run this command in your terminal:
+```
   $node app.js &
+```
 
-open in your browser:
+### open in your browser:
+```
   http://localhost:3000/
+```
 
 visit my blog: 
 http://blog.luksidadi.com
